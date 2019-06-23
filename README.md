@@ -1,0 +1,2 @@
+# manojez
+Nowy server survival
